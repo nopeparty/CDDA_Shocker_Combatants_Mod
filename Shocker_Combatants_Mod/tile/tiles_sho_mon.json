@@ -1,0 +1,35 @@
+{
+  "type": "mod_tileset",
+  "compatibility": [ "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE", "UNDEAD_PEOPLE_BASE" , "MshockXottoplus12" ],
+  "tile_info": [
+    {
+      "height": 32,
+      "width": 32
+    }
+  ],
+  "tiles-new": [
+    {
+      "file": "tile/female_shocker_2.png",
+      "tiles": 
+      [
+        { "id": "mon_fem_shocker 1",   "fg": 0},
+		{ "id": "mon_fem_shocker 2",   "fg": 2},
+		{ "id": "mon_fem_shocker 3",   "fg": 4},
+		{ "id": "mon_fem_shocker 4",   "fg": 6},
+		{ "id": "mon_fem_shocker 5",   "fg": 8},
+		{ "id": "mon_fem_shocker 6",   "fg": 10},
+		{ "id": "mon_fem_shocker 7",   "fg": 12},
+		{ "id": "mon_fem_shocker 8",   "fg": 14},
+		
+		{ "id": "corpse_mon_fem_shocker 1",   "fg": 1,   "rotates": false },
+		{ "id": "corpse_mon_fem_shocker 2",   "fg": 1,   "rotates": false },
+		{ "id": "corpse_mon_fem_shocker 3",   "fg": 1,   "rotates": false },
+		{ "id": "corpse_mon_fem_shocker 4",   "fg": 1,   "rotates": false },
+		{ "id": "corpse_mon_fem_shocker 5",   "fg": 1,   "rotates": false },
+		{ "id": "corpse_mon_fem_shocker 6",   "fg": 1,   "rotates": false },
+		{ "id": "corpse_mon_fem_shocker 7",   "fg": 1,   "rotates": false },
+		{ "id": "corpse_mon_fem_shocker 8",   "fg": 1,   "rotates": false }		
+      ]
+    }
+  ]
+}
