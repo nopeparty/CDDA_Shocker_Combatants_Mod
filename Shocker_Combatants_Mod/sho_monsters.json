@@ -33,6 +33,8 @@
     "flags": [
       "SEES",
 	  "ACID_BLOOD",
+      "REVIVES",
+	  "WARM",
 	  "CAN_OPEN_DOORS",
 	  "CANPLAY",
 	  "FLAMMABLE",
@@ -45,15 +47,11 @@
 	  "GRABS",
       "HEARS",
       "SMELLS",
-      "WARM",
       "BASHES",
 	  "GROUP_MORALE",
 	  "SWARMS",
       "SWIMS",
-      "CLIMBS",
       "HUMAN",
-      "BLEED", 
-	  "BONES",
       "PUSH_MON"
     ]
   },
@@ -91,6 +89,8 @@
     "flags": [
       "SEES",
 	  "ACID_BLOOD",
+      "REVIVES",
+	  "WARM",
 	  "CAN_OPEN_DOORS",
 	  "CANPLAY",
 	  "FLAMMABLE",
@@ -103,15 +103,11 @@
 	  "GRABS",
       "HEARS",
       "SMELLS",
-      "WARM",
       "BASHES",
 	  "GROUP_MORALE",
 	  "SWARMS",
       "SWIMS",
-      "CLIMBS",
       "HUMAN",
-      "BLEED", 
-	  "BONES",
       "PUSH_MON"
     ]
   },
@@ -149,6 +145,8 @@
     "flags": [
       "SEES",
 	  "ACID_BLOOD",
+      "REVIVES",
+	  "WARM",
 	  "CAN_OPEN_DOORS",
 	  "CANPLAY",
 	  "FLAMMABLE",
@@ -161,15 +159,11 @@
 	  "GRABS",
       "HEARS",
       "SMELLS",
-      "WARM",
       "BASHES",
 	  "GROUP_MORALE",
 	  "SWARMS",
       "SWIMS",
-      "CLIMBS",
       "HUMAN",
-      "BLEED", 
-	  "BONES",
       "PUSH_MON"
     ]
   },
@@ -207,6 +201,8 @@
     "flags": [
       "SEES",
 	  "ACID_BLOOD",
+      "REVIVES",
+	  "WARM",
 	  "CAN_OPEN_DOORS",
 	  "CANPLAY",
 	  "FLAMMABLE",
@@ -219,15 +215,11 @@
 	  "GRABS",
       "HEARS",
       "SMELLS",
-      "WARM",
       "BASHES",
 	  "GROUP_MORALE",
 	  "SWARMS",
       "SWIMS",
-      "CLIMBS",
       "HUMAN",
-      "BLEED", 
-	  "BONES",
       "PUSH_MON"
     ]
   },
@@ -265,6 +257,8 @@
     "flags": [
       "SEES",
 	  "ACID_BLOOD",
+      "REVIVES",
+	  "WARM",
 	  "CAN_OPEN_DOORS",
 	  "CANPLAY",
 	  "FLAMMABLE",
@@ -277,15 +271,11 @@
 	  "GRABS",
       "HEARS",
       "SMELLS",
-      "WARM",
       "BASHES",
 	  "GROUP_MORALE",
 	  "SWARMS",
       "SWIMS",
-      "CLIMBS",
       "HUMAN",
-      "BLEED", 
-	  "BONES",
       "PUSH_MON"
     ]
   },
@@ -323,6 +313,8 @@
     "flags": [
       "SEES",
 	  "ACID_BLOOD",
+      "REVIVES",
+	  "WARM",
 	  "CAN_OPEN_DOORS",
 	  "CANPLAY",
 	  "FLAMMABLE",
@@ -335,15 +327,11 @@
 	  "GRABS",
       "HEARS",
       "SMELLS",
-      "WARM",
       "BASHES",
 	  "GROUP_MORALE",
 	  "SWARMS",
       "SWIMS",
-      "CLIMBS",
       "HUMAN",
-      "BLEED", 
-	  "BONES",
       "PUSH_MON"
     ]
   },
@@ -381,6 +369,8 @@
     "flags": [
       "SEES",
 	  "ACID_BLOOD",
+      "REVIVES",
+	  "WARM",
 	  "CAN_OPEN_DOORS",
 	  "CANPLAY",
 	  "FLAMMABLE",
@@ -393,15 +383,11 @@
 	  "GRABS",
       "HEARS",
       "SMELLS",
-      "WARM",
       "BASHES",
 	  "GROUP_MORALE",
 	  "SWARMS",
       "SWIMS",
-      "CLIMBS",
       "HUMAN",
-      "BLEED", 
-	  "BONES",
       "PUSH_MON"
     ]
   },
@@ -439,6 +425,8 @@
     "flags": [
       "SEES",
 	  "ACID_BLOOD",
+      "REVIVES",
+	  "WARM",
 	  "CAN_OPEN_DOORS",
 	  "CANPLAY",
 	  "FLAMMABLE",
@@ -451,15 +439,11 @@
 	  "GRABS",
       "HEARS",
       "SMELLS",
-      "WARM",
       "BASHES",
 	  "GROUP_MORALE",
 	  "SWARMS",
       "SWIMS",
-      "CLIMBS",
       "HUMAN",
-      "BLEED", 
-	  "BONES",
       "PUSH_MON"
     ]
   }   
