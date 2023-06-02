@@ -1,97 +1,97 @@
 [
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 1",
+    "speaker": "mon_fem_shocker1",
         "sound" : "이이_!!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 1",
+    "speaker": "mon_fem_shocker1",
         "sound" : "잇~!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 2",
+    "speaker": "mon_fem_shocker2",
         "sound" : "이이_!!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 2",
+    "speaker": "mon_fem_shocker2",
         "sound" : "잇~!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 3",
+    "speaker": "mon_fem_shocker3",
         "sound" : "이이_!!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 3",
+    "speaker": "mon_fem_shocker3",
         "sound" : "잇~!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 4",
+    "speaker": "mon_fem_shocker4",
         "sound" : "이이_!!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 4",
+    "speaker": "mon_fem_shocker4",
         "sound" : "잇~!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 5",
+    "speaker": "mon_fem_shocker5",
         "sound" : "이이_!!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 5",
+    "speaker": "mon_fem_shocker5",
         "sound" : "잇~!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 6",
+    "speaker": "mon_fem_shocker6",
         "sound" : "이이_!!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 6",
+    "speaker": "mon_fem_shocker6",
         "sound" : "잇~!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 7",
+    "speaker": "mon_fem_shocker7",
         "sound" : "이이_!!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 7",
+    "speaker": "mon_fem_shocker7",
         "sound" : "잇~!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 8",
+    "speaker": "mon_fem_shocker8",
         "sound" : "이이_!!",
     "volume": 10
   },
   {
     "type": "speech",
-    "speaker": "mon_fem_shocker 8",
+    "speaker": "mon_fem_shocker8",
         "sound" : "잇~!",
     "volume": 10
   }  
