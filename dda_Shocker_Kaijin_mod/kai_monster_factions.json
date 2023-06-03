@@ -1,0 +1,9 @@
+[
+  {
+    "type": "MONSTER_FACTION",
+    "name": "kaijin",
+    "friendly": [ "shocker" ],
+    "neutral": [ "small_animal", "fish" ],
+    "by_mood": [  ]
+  }
+]
