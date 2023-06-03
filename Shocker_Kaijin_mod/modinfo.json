@@ -1,9 +1,0 @@
-{
-  "type": "MOD_INFO",
-  "ident": "Shocker_Kaijin",
-  "name": "Shocker kaijin enemies",
-  "authors": [ "nopeparty" ],
-  "description": "Adds some kaijin monsters from kamen rider series. Pretty much unbalance and chaotic. Working in progress.",
-  "category": "creatures",
-  "dependencies": ["dda","bn"]
-}
