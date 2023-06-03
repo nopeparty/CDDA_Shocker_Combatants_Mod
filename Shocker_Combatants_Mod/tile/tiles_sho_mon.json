@@ -1,0 +1,25 @@
+{
+  "type": "mod_tileset",
+  "compatibility": [ "MSX++DEAD_PEOPLE","UNDEAD_PEOPLE","UNDEAD_PEOPLE_BASE","MshockXottoplus10","MshockXottoplus12" ],	
+  "tile_info": [
+    {
+      "height": 32,
+      "width": 32
+    }
+  ],
+  "tiles-new": [
+    {
+      "file": "tile/female_shocker_2.png",
+      "tiles": 
+      [
+		{ "id": "mon_fem_shocker1", 
+          "fg": [
+		    { "weight": 3, "sprite": 4 },
+			{ "weight": 3, "sprite": 12 }
+		] },
+		
+		{ "id": "corpse_mon_fem_shocker1",   "fg": 1,   "rotates": false }
+      ]
+    }
+  ]
+}
