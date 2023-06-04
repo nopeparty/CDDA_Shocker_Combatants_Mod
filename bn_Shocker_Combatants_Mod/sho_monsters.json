@@ -15,7 +15,7 @@
 	"weight": "45 kg",
     "material": [ "flesh" ],
     "symbol": "S",
-    "color": "black_white",
+    "color": "white",
 	"attack_cost": 15,
 	"aggression": 25,
     "morale": 15,
