@@ -1,0 +1,11 @@
+[
+  {
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "default_kaijin_death_drops",
+    "entries": [ 
+{ "item": "gloves_leather", "prob": 50 },
+{ "item": "knee_high_boots", "prob": 50 }
+  ]
+  }
+]
