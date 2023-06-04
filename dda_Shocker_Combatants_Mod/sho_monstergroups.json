@@ -6,7 +6,8 @@
 	"is_animal": true,
     "default": "mon_null",
     "monsters": [
-      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 0, "pack_size": [2,3] }
+      { "monster" : "mon_fem_shocker1", "freq" : 112, "cost_multiplier" : 0, "pack_size": [4,8] },
+	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 0, "pack_size": [2,3] }
     ]
   }
    ,{
@@ -16,7 +17,8 @@
 	"is_animal": true,
     "default" : "mon_null",
     "monsters" : [
-      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 0, "pack_size": [2,3] }
+      { "monster" : "mon_fem_shocker1", "freq" : 112, "cost_multiplier" : 0, "pack_size": [4,8] },
+	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 0, "pack_size": [2,3] }
     ]
   }
   ,{
@@ -26,7 +28,8 @@
 	"is_animal": true,
     "default" : "mon_null",
     "monsters" : [
-      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 0, "pack_size": [2,3] }
+      { "monster" : "mon_fem_shocker1", "freq" : 112, "cost_multiplier" : 0, "pack_size": [4,8] },
+	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 0, "pack_size": [2,3] }
     ]
   } 
 ]

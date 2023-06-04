@@ -22,14 +22,25 @@
   ],
   "tiles-new": [
     {
-      "file": "tile/female_shocker_3.png",
+      "file": "tile/female_shocker_4.png",
       "tiles": 
       [				
 		{ "id": "mon_fem_shocker1",
           "fg": [
+		    { "weight": 1, "sprite": 0 },
+			{ "weight": 1, "sprite": 1 }
+		] },	
+        { "id": "corpse_mon_fem_shocker1",   
+		  "fg": [
+		    { "weight": 1, "sprite": 2 } ],
+		      "rotates": false 
+		},		
+		
+		{ "id": "mon_fem_shocker2",
+          "fg": [
 		    { "weight": 1, "sprite": 3 }
-		] },		
-		{ "id": "corpse_mon_fem_shocker1",   
+		] },	
+		{ "id": "corpse_mon_fem_shocker2",   
 		  "fg": [
 		    { "weight": 1, "sprite": 4 },
 		    { "weight": 0, "sprite": 5 },
