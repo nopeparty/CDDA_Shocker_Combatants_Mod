@@ -6,19 +6,80 @@
 	"is_animal": true,
     "default": "mon_null",
     "monsters": [
-      { "monster" : "mon_fem_shocker1", "freq" : 112, "cost_multiplier" : 0, "pack_size": [4,8] },
-	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 0, "pack_size": [2,3] }
+      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,8] },
+	  { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,5] }
     ]
   }
+  ,{
+    "type": "monstergroup",
+    "name": "GROUP_HOUSE",
+	"is_animal": true,
+    "default": "mon_null",
+    "monsters": [
+      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,4] }
+    ]
+  }
+  ,{
+    "type": "monstergroup",
+    "name": "GROUP_HOSPITAL",
+	"is_animal": true,
+    "default": "mon_null",
+    "monsters": [
+      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,8] },
+	  { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,8] },
+	  { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,8] },
+	  { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,8] },
+	  { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,8] }
+    ]
+  }
+  ,{
+    "type": "monstergroup",
+    "name": "GROUP_CHURCH_ZOMBIE",
+	"is_animal": true,
+    "default": "mon_null",
+    "monsters": [
+      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,8] }
+    ]
+  }
+  ,{
+    "type": "monstergroup",
+    "name": "GROUP_MANSION",
+	"is_animal": true,
+    "default": "mon_null",
+    "monsters":[
+      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,4] },
+	  { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,4] }
+    ]
+  }
+  ,{
+    "type": "monstergroup",
+    "name": "GROUP_LAB",
+	"is_animal": true,
+    "default": "mon_zombie_scientist",
+    "monsters": [ 
+	  { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,4] },
+	  { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,4] }
+	]
+  }
+  ,{
+    "type": "monstergroup",
+    "name": "GROUP_ICE_LAB",
+	"is_animal": true,
+    "default": "mon_zombie_scientist",
+    "monsters": [
+      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,4] },
+	  { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,4] }
+	]
+  }  
    ,{
     "type":"monstergroup",
     "name" : "GROUP_VANILLA",
 	"//": "Group of female shocker combatants",
 	"is_animal": true,
-    "default" : "mon_null",
+    "default" : "mon_zombie",
     "monsters" : [
-      { "monster" : "mon_fem_shocker1", "freq" : 112, "cost_multiplier" : 0, "pack_size": [4,8] },
-	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 0, "pack_size": [2,3] }
+      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,8] },
+	  { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,4] }
     ]
   }
   ,{
@@ -26,10 +87,10 @@
     "name" : "GROUP_ZOMBIE_MID",
 	"//": "Group of female shocker combatants",
 	"is_animal": true,
-    "default" : "mon_null",
+    "default" : "mon_zombie",
     "monsters" : [
-      { "monster" : "mon_fem_shocker1", "freq" : 112, "cost_multiplier" : 0, "pack_size": [4,8] },
-	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 0, "pack_size": [2,3] }
+      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [4,8] },
+	  { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,4] }
     ]
   } 
 ]
