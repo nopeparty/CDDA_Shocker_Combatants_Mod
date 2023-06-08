@@ -31,7 +31,7 @@
 	"harvest":"human",
 	"regen_morale":true,
 	"anger_triggers":[  ],
-	"fear_triggers":[ "HURT","FRIEND_DIED" ],
+	"fear_triggers":[ "HURT" ],
 	"reproduction":{ "baby_monster": "mon_fem_shocker1", "baby_count": 1, "baby_timer": 1 },
     "special_attacks": [  ],
     "death_drops": { "subtype": "collection", "groups": [ [ "default_shocker1_death_drops", 100 ] ] },
