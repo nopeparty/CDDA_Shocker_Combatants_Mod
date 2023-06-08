@@ -35,7 +35,6 @@
     "death_function": [ "KILL_VINES", "VINE_CUT", "NORMAL" ],
     "flags": [
       "SEES",
-	  "ATTACKMON",
 	  "BLEED",
       "REVIVES",
 	  "CHITIN",
@@ -46,17 +45,12 @@
 	  "POISON",
 	  "WARM",
 	  "CAN_OPEN_DOORS",
-	  "FLAMMABLE",
 	  "NO_FUNG_DMG",	  
       "PATH_AVOID_DANGER_2",
-      "PRIORITIZE_TARGETS",
 	  "GRABS",
-      "HEARS",
       "SMELLS",
       "BASHES",
 	  "GROUP_MORALE",
-	  "SWARMS",
-      "SWIMS",
       "PUSH_MON"
     ]
   },
@@ -96,7 +90,6 @@
     "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
-	  "ATTACKMON",
 	  "BADVENOM",
 	  "BLEED",
       "REVIVES",
@@ -108,16 +101,11 @@
 	  "POISON",
 	  "WARM",
 	  "CAN_OPEN_DOORS",
-	  "FLAMMABLE",
 	  "NO_FUNG_DMG",	  
       "PATH_AVOID_DANGER_2",
-      "PRIORITIZE_TARGETS",
-      "HEARS",
       "SMELLS",
       "BASHES",
 	  "GROUP_MORALE",
-	  "SWARMS",
-      "SWIMS",
       "PUSH_MON"
     ]
   }     

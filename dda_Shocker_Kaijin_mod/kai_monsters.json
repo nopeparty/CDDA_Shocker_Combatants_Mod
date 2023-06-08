@@ -34,7 +34,6 @@
     "death_drops": { "subtype": "collection", "groups": [ [ "default_kaijin_death_drops", 100 ] ] },
     "flags": [
       "SEES",
-	  "ATTACKMON",
       "REVIVES",
 	  "CLIMBS",
 	  "DESTROYS",
@@ -43,16 +42,12 @@
 	  "POISON",
 	  "WARM",
 	  "CAN_OPEN_DOORS",
-	  "FLAMMABLE",
 	  "NO_FUNG_DMG",	  
       "PATH_AVOID_DANGER_2",
 	  "GRABS",
-      "HEARS",
       "SMELLS",
       "BASHES",
 	  "GROUP_MORALE",
-	  "SWARMS",
-      "SWIMS",
       "PUSH_MON"
     ]
   },
@@ -101,15 +96,11 @@
 	  "POISON",
 	  "WARM",
 	  "CAN_OPEN_DOORS",
-	  "FLAMMABLE",
 	  "NO_FUNG_DMG",	  
       "PATH_AVOID_DANGER_2",
-      "HEARS",
       "SMELLS",
       "BASHES",
 	  "GROUP_MORALE",
-	  "SWARMS",
-      "SWIMS",
       "PUSH_MON"
     ]
   }     

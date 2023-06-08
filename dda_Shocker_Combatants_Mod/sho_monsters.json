@@ -37,19 +37,13 @@
     "death_drops": { "subtype": "collection", "groups": [ [ "default_shocker1_death_drops", 100 ] ] },
     "flags": [
       "SEES",
-	  "ATTACKMON",
 	  "WARM",
 	  "CAN_OPEN_DOORS",
-	  "PATH_AVOID_DANGER_2",
-	  "PRIORITIZE_TARGETS",
-	  "FLAMMABLE",
-	  "GRABS",
+	  "PATH_AVOID_DANGER_1",
       "HEARS",
       "SMELLS",
       "BASHES",
 	  "GROUP_MORALE",
-	  "SWARMS",
-      "SWIMS",
       "HUMAN",
       "PUSH_MON"
     ]
@@ -92,18 +86,13 @@
     "death_drops": { "subtype": "collection", "groups": [ [ "default_shocker2_death_drops", 100 ] ] },
     "flags": [
       "SEES",
-	  "ATTACKMON",
 	  "WARM",
 	  "CAN_OPEN_DOORS",
-	  "PRIORITIZE_TARGETS",
-	  "FLAMMABLE",
 	  "GRABS",
       "HEARS",
       "SMELLS",
       "BASHES",
 	  "GROUP_MORALE",
-	  "SWARMS",
-      "SWIMS",
       "HUMAN",
       "PUSH_MON"
     ]

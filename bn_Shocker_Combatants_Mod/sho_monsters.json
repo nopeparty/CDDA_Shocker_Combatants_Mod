@@ -38,20 +38,15 @@
     "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
-	  "ATTACKMON",
 	  "BLEED",
 	  "WARM",
-	  "FLAMMABLE",
-	  "PATH_AVOID_DANGER_2",
+	  "CAN_OPEN_DOORS",
+	  "PATH_AVOID_DANGER_1",
       "PRIORITIZE_TARGETS",
-	  "ANIMAL",
-	  "GRABS",
       "HEARS",
       "SMELLS",
       "BASHES",
 	  "GROUP_MORALE",
-	  "SWARMS",
-      "SWIMS",
       "HUMAN",
       "PUSH_MON"
     ]
@@ -95,19 +90,14 @@
     "death_function": [ "NORMAL" ],
     "flags": [
       "SEES",
-	  "ATTACKMON",
 	  "BLEED",
 	  "WARM",
-	  "FLAMMABLE",
+	  "CAN_OPEN_DOORS",
       "PRIORITIZE_TARGETS",
-	  "ANIMAL",
-	  "GRABS",
       "HEARS",
       "SMELLS",
       "BASHES",
 	  "GROUP_MORALE",
-	  "SWARMS",
-      "SWIMS",
       "HUMAN",
       "PUSH_MON"
     ]
