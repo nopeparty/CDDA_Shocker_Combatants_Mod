@@ -6,15 +6,5 @@
     "entries": [ 
 { "item": "stockings", "prob": 90 },
 { "item": "leotard", "prob": 95 } ]
-  },
-  {
-    "type": "item_group",
-    "subtype": "collection",
-    "id": "default_shocker2_death_drops",
-    "entries": [ 
-{ "item": "stockings", "prob": 90 },
-{ "item": "gloves_leather", "prob": 50 },
-{ "item": "knee_high_boots", "prob": 50 },
-{ "item": "leotard", "prob": 95 } ]
-  }  
+  }
 ]
