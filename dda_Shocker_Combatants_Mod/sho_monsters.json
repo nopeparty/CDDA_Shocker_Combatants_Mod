@@ -42,10 +42,8 @@
 	  "WARM",
 	  "CAN_OPEN_DOORS",
 	  "PATH_AVOID_DANGER_1",
-      "PRIORITIZE_TARGETS",
       "HEARS",
       "SMELLS",
-      "BASHES",
 	  "GROUP_MORALE",
       "HUMAN",
       "PUSH_MON"
