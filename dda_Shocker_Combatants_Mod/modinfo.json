@@ -3,7 +3,7 @@
   "ident": "Shocker_combatants",
   "name": "Shocker combatants enemies",
   "authors": [ "nopeparty" ],
-  "description": "Adds some monsters from female combatants and kamen rider series. Pretty much unbalance. Working in progress.",
+  "description": "Adds some monsters from female combatants. Pretty much unbalance and chaotic. Working in progress.",
   "category": "creatures",
   "dependencies": ["dda"]
 }
