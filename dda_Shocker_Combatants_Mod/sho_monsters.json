@@ -4,7 +4,7 @@
     "type": "MONSTER",
     "name": "Female shocker1",
     "description":
-    "A modified human,or synthetic human female shocker combatant of evil organization.It has 4 ~ 5 times stronger physical strength than ordinary people.It has clad in pantyhose and leotard,and it has also fast reproduction.",
+    "A modified human,or synthetic human female shocker combatant of evil organization.It has 4 ~ 5 times stronger physical strength than ordinary people.It has clad in pantyhose and leotard.",
 	"default_faction": "shocker",
     "bodytype": "human",
 	"species": [ "HUMAN" ],
@@ -52,7 +52,7 @@
     "type": "MONSTER",
     "name": "Female shocker2",
     "description":
-    "A brainwashed human female shocker combatant of evil organization.It has clad in pantyhose and leotard,and it has also fast reproduction.",
+    "A brainwashed human female shocker combatant of evil organization.It has clad in pantyhose and leotard.",
 	"default_faction": "shocker",
     "bodytype": "human",
 	"species": [ "HUMAN" ],
