@@ -3,15 +3,17 @@
     "type": "monstergroup",
     "name": "GROUP_ZOMBIE",
 	"default": "mon_zombie",
+	"is_animal": true,
     "monsters": [
-      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,5] },
-	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,15] }
+      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [1,5] },
+	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,15] }
     ]
   }
   ,{
     "type": "monstergroup",
     "name": "GROUP_HOUSE",
 	"default": "mon_zombie",
+	"is_animal": true,
     "monsters": [
       { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,5] },
 	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,5] }
@@ -21,17 +23,19 @@
     "type": "monstergroup",
     "name": "GROUP_HOSPITAL",
 	"default": "mon_zombie",
+	"is_animal": true,
     "monsters": [
-      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,15] },
-	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,15] },
-	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,15] },
-	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,15] }
+      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,15] },
+	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,15] },
+	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,15] },
+	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,15] }
     ]
   }
   ,{
     "type": "monstergroup",
     "name": "GROUP_CHURCH_ZOMBIE",
 	"default": "mon_zombie",
+	"is_animal": true,
     "monsters": [
       { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,5] },
 	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,5] }
@@ -41,15 +45,17 @@
     "type": "monstergroup",
     "name": "GROUP_MANSION",
 	"default": "mon_zombie",
+	"is_animal": true,
     "monsters":[
       { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,5] },
-	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,15] }
+	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,10] }
     ]
   }
   ,{
     "type": "monstergroup",
     "name": "GROUP_LAB",
 	"default": "mon_zombie",
+	"is_animal": true,
     "monsters": [ 
 	  { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,5] },
 	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,5] }
@@ -59,6 +65,7 @@
     "type": "monstergroup",
     "name": "GROUP_ICE_LAB",
 	"default": "mon_zombie",
+	"is_animal": true,
     "monsters": [
       { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,5] },
 	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,5] }
@@ -68,18 +75,20 @@
     "type":"monstergroup",
     "name" : "GROUP_VANILLA",
 	"default": "mon_zombie",
+	"is_animal": true,
     "monsters" : [
-      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,10] },
-	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,15] }
+      { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,5] },
+	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,10] }
     ]
   }
   ,{
     "type":"monstergroup",
     "name" : "GROUP_ZOMBIE_MID",
 	"default": "mon_zombie",
+	"is_animal": true,
     "monsters" : [
       { "monster" : "mon_fem_shocker1", "freq" : 100, "cost_multiplier" : 5, "pack_size": [2,10] },
-	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,15] }
+	  { "monster" : "mon_fem_shocker2", "freq" : 100, "cost_multiplier" : 5, "pack_size": [5,10] }
     ]
   } 
 ]
