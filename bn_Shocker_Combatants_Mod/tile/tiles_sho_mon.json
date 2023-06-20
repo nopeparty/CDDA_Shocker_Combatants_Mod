@@ -33,11 +33,7 @@
         { "id": "corpse_mon_fem_shocker1",   
 		  "fg": [
 		    { "weight": 1, "sprite": 2 } ],
-		      "rotates": false ,		
-              "sprite_width": 32,
-              "sprite_height": 32,
-              "sprite_offset_x": 0,
-              "sprite_offset_y": 0
+		      "rotates": false
 		},
 		
 		{ "id": "mon_fem_shocker2",
@@ -48,11 +44,7 @@
         { "id": "corpse_mon_fem_shocker2",   
 		  "fg": [
 		    { "weight": 1, "sprite": 5 } ],
-		      "rotates": false ,		
-              "sprite_width": 32,
-              "sprite_height": 32,
-              "sprite_offset_x": 0,
-              "sprite_offset_y": 0
+		      "rotates": false
 		},
 		
 		{ "id": "mon_fem_shocker3",
@@ -63,11 +55,7 @@
         { "id": "corpse_mon_fem_shocker3",   
 		  "fg": [
 		    { "weight": 1, "sprite": 8 } ],
-		      "rotates": false ,		
-              "sprite_width": 32,
-              "sprite_height": 32,
-              "sprite_offset_x": 0,
-              "sprite_offset_y": 0
+		      "rotates": false
 		}
       ]		
     }

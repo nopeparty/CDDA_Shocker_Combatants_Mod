@@ -2,7 +2,6 @@
   {
     "name": "GROUP_PARK_SCENIC",
     "type": "monstergroup",
-	"is_animal": true,
     "monsters": [
       { "monster": "mon_fem_shocker1", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
@@ -12,7 +11,6 @@
   {
     "name": "GROUP_SURVIVOR_FOREST",
     "type": "monstergroup",
-	"is_animal": true,
     "monsters": [
       { "monster": "mon_fem_shocker1", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
@@ -22,7 +20,6 @@
   {
     "name": "GROUP_ROOF_ZOMBIE",
     "type": "monstergroup",
-	"is_animal": true,
     "monsters": [
       { "monster": "mon_fem_shocker1", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
@@ -32,7 +29,6 @@
   {
     "name": "GROUP_PARK_PLAYGROUND",
     "type": "monstergroup",
-	"is_animal": true,
     "monsters": [
       { "monster": "mon_fem_shocker1", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
@@ -42,7 +38,6 @@
   {
     "name": "GROUP_ZOMBIE_SCORCHED",
     "type": "monstergroup",
-	"is_animal": true,
     "monsters": [
       { "monster": "mon_fem_shocker1", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
@@ -52,7 +47,6 @@
   {
     "type": "monstergroup",
     "name": "GROUP_ZOMBIE",
-	"is_animal": true,
     "monsters": [
       { "monster": "mon_fem_shocker1", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
@@ -62,7 +56,6 @@
   {
     "type": "monstergroup",
     "name": "GROUP_ZOMBIE_GASSTATION",
-	"is_animal": true,
     "monsters": [
       { "monster": "mon_fem_shocker1", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
@@ -74,7 +67,6 @@
     "name": "GROUP_FERAL",
     "//": "default ferals",
     "default": "mon_feral_human_crowbar",
-	"is_animal": true,
     "monsters": [
       { "monster": "mon_fem_shocker1", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
@@ -86,7 +78,6 @@
     "name": "GROUP_VANILLA_ONLY_HUMANS",
     "//": "only human zombies, used in the refugee center and as upgrades for civilians",
     "default": "mon_zombie",
-	"is_animal": true,
     "monsters": [
       { "monster": "mon_fem_shocker1", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
@@ -98,7 +89,6 @@
     "name": "GROUP_VANILLA_NO_FERAL",
     "//": "also no civilians, currently used in the sealed hazardous waste sarcophagus chamber",
     "default": "mon_zombie",
-	"is_animal": true,
     "monsters": [
       { "monster": "mon_fem_shocker1", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
@@ -110,7 +100,6 @@
     "name": "GROUP_VANILLA",
     "default": "mon_zombie",
     "//": "Normalized to 1000",
-	"is_animal": true,
     "monsters": [
       { "monster": "mon_fem_shocker1", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
@@ -122,7 +111,6 @@
     "name": "GROUP_POLICE",
     "//": "+30% cops, much higher chance of paramilitary people",
     "default": "mon_zombie",
-	"is_animal": true,
     "monsters": [
       { "monster": "mon_fem_shocker1", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
@@ -134,7 +122,6 @@
     "name": "GROUP_POLICE_EXTRA",
     "//": "100% cops, 0% civilians",
     "default": "mon_zombie",
-	"is_animal": true,
     "monsters": [
       { "monster": "mon_fem_shocker1", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
@@ -300,11 +287,6 @@
 	  { "monster": "mon_fem_shocker2", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] },
 	  { "monster": "mon_fem_shocker3", "weight": 250, "cost_multiplier": 5, "pack_size": [4,8] }
     ]
-  },
-  {
-    "name": "GROUP_PLAIN",
-    "type": "monstergroup",
-    "monsters": [ { "monster": "mon_zombie" } ]
   },
   {
     "name": "GROUP_HOTEL_POOL",
