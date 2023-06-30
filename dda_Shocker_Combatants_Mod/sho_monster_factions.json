@@ -4,7 +4,6 @@
     "name": "shocker",
     "friendly": [ "kaijin","shocker" ],
     "neutral": [ "small_animal","fish" ],
-	"hate": [ "human","player" ],
-    "by_mood": [  ]
+	"hate": [ "human","player" ]
   }
 ]
