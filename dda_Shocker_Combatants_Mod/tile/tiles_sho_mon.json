@@ -60,6 +60,39 @@
 		  "fg": [
 		    { "weight": 1, "sprite": 8 } ],
 		      "rotates": false
+		},
+		
+		{ "id": "mon_fem_shocker4",
+          "fg": [
+		    { "weight": 1, "sprite": 9 },
+			{ "weight": 1, "sprite": 10 }
+		] },	
+        { "id": "corpse_mon_fem_shocker4",   
+		  "fg": [
+		    { "weight": 1, "sprite": 11 } ],
+		      "rotates": false
+		},
+		
+		{ "id": "mon_fem_shocker5",
+          "fg": [
+		    { "weight": 1, "sprite": 12 },
+			{ "weight": 1, "sprite": 13 }
+		] },	
+        { "id": "corpse_mon_fem_shocker5",   
+		  "fg": [
+		    { "weight": 1, "sprite": 14 } ],
+		      "rotates": false
+		},
+		
+		{ "id": "mon_fem_shocker6",
+          "fg": [
+		    { "weight": 1, "sprite": 15 },
+			{ "weight": 1, "sprite": 16 }
+		] },	
+        { "id": "corpse_mon_fem_shocker6",   
+		  "fg": [
+		    { "weight": 1, "sprite": 17 } ],
+		      "rotates": false
 		}
       ]		
     }
