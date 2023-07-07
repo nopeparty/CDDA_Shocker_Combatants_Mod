@@ -1,17 +1,10 @@
 {
   "type": "mod_tileset",
   "compatibility": [ 
-	 "Custom Tileset",
-	 "MshockXottoplus",
-	 "MSX++DEAD_PEOPLE",
-	 "UNDEAD_PEOPLE",
-	 "ChestHole32",
 	 "UNDEAD_PEOPLE_BASE",
-	 "UltimateCataclysm",
-	 "UltimateCataclysmDemo",
-	 "Chibi_Ultica",
-	 "MshockXottoplus",
-	 "MshockXottoplus"
+	 "UNDEAD_PEOPLE",
+	 "MshockRealXotto",
+	 "MSX++DEAD_PEOPLE"
   ],
   "tile_info": [
     {
@@ -22,8 +15,10 @@
   "tiles-new": [
     {
       "file": "tile/shocker_normal.png",
-	  "sprite_width":32,
-   	  "sprite_height":32,
+	  "sprite_width": 32,
+      "sprite_height": 32,
+      "sprite_offset_x": 0,
+      "sprite_offset_y": 0,
       "tiles": 
       [	
 		{ "id": "mon_fem_shocker1",

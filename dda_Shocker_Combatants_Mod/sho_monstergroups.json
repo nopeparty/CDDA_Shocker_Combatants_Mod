@@ -5,9 +5,9 @@
 	"default": "mon_zombie",
 	
     "monsters": [
-	  { "monster": "mon_fem_shocker1", "weight": 63, "cost_multiplier": 0, "pack_size": [4,5] },
-	  { "monster": "mon_fem_shocker2", "weight": 63, "cost_multiplier": 0, "pack_size": [4,5] },
-	  { "monster": "mon_fem_shocker3", "weight": 63, "cost_multiplier": 0, "pack_size": [5,6] }
+	  { "monster": "mon_fem_shocker1", "weight": 63, "cost_multiplier": 0, "pack_size": [5,5] },
+	  { "monster": "mon_fem_shocker2", "weight": 63, "cost_multiplier": 0, "pack_size": [5,5] },
+	  { "monster": "mon_fem_shocker3", "weight": 63, "cost_multiplier": 0, "pack_size": [5,5] }
     ]
   }
   ,{
