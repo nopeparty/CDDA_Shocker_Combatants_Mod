@@ -2,7 +2,7 @@
   {
     "type": "speech",
     "speaker": "mon_fem_shocker3",
-        "sound" : "\"yee!\"",
+        "sound" : "\"Ei!\"",
     "volume": 10
   },
   {
@@ -26,13 +26,13 @@
   {
     "type": "speech",
     "speaker": "mon_fem_shocker1",
-        "sound" : "\"Yee!　Death is for everyone who stands against the organization!　We'll take care of it with our hands!\"",
+        "sound" : "\"Ei!　Death is for everyone who stands against the organization!　We'll take care of it with our hands!\"",
     "volume": 10
   },
   {
     "type": "speech",
     "speaker": "mon_fem_shocker1",
-        "sound" : "\"Yee!　We will get rid of the fools who go against the organization!\"",
+        "sound" : "\"Ei!　We will get rid of the fools who go against the organization!\"",
     "volume": 10
   },
   {
@@ -86,7 +86,7 @@
   {
     "type": "speech",
     "speaker": "mon_fem_shocker1",
-        "sound" : "\"Yee!　Bring darkness to the world!　Death to those who oppose their teeth!\"",
+        "sound" : "\"Ei!　Bring darkness to the world!　Death to those who oppose their teeth!\"",
     "volume": 10
   },
   {
@@ -110,13 +110,13 @@
   {
     "type": "speech",
     "speaker": "mon_fem_shocker1",
-        "sound" : "\"Yee!　We female combatants also sexually processing the Phantom-sama. Please enjoy our bodies to the fullest.\"",
+        "sound" : "\"Ei!　We female combatants also sexually processing the Phantom-sama. Please enjoy our bodies to the fullest.\"",
     "volume": 10
   },
   {
     "type": "speech",
     "speaker": "mon_fem_shocker1",
-        "sound" : "\"Yee　We are female combatants. We swear allegiance to the Lord!\"",
+        "sound" : "\"Ei!　We are female combatants. We swear allegiance to the Lord!\"",
     "volume": 10
   },
   {
@@ -164,7 +164,7 @@
   {
     "type": "speech",
     "speaker": "mon_fem_shocker1",
-        "sound" : "\"I was reborn by a great organization. Now I am a female combatant. Yee!\"",
+        "sound" : "\"I was reborn by a great organization. Now I am a female combatant. Ei!\"",
     "volume": 10
   }
 ]
