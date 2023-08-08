@@ -29,36 +29,41 @@
 			{ "weight": 1, "sprite": 2 },
 			{ "weight": 1, "sprite": 3 },
 			{ "weight": 1, "sprite": 4 },
-			{ "weight": 1, "sprite": 5 }
-		] },	
-        { "id": "corpse_mon_fem_shocker1",   
-		  "fg": [
-		    { "weight": 1, "sprite": 6 } ],
-		      "rotates": false
-		},
-		
-		{ "id": "mon_fem_shocker2",
-          "fg": [
-		    { "weight": 1, "sprite": 7 },
+			{ "weight": 1, "sprite": 5 },
+			{ "weight": 1, "sprite": 6 },
+			{ "weight": 1, "sprite": 7 },
 			{ "weight": 1, "sprite": 8 },
 			{ "weight": 1, "sprite": 9 }
-		] },
-        { "id": "corpse_mon_fem_shocker2",   
+		] },	
+        { "id": "corpse_mon_fem_shocker1",   
 		  "fg": [
 		    { "weight": 1, "sprite": 10 } ],
 		      "rotates": false
 		},
 		
-		{ "id": "mon_fem_shocker3",
+		{ "id": "mon_fem_shocker2",
           "fg": [
 		    { "weight": 1, "sprite": 11 },
 			{ "weight": 1, "sprite": 12 },
 			{ "weight": 1, "sprite": 13 },
 			{ "weight": 1, "sprite": 14 }
+		] },
+        { "id": "corpse_mon_fem_shocker2",   
+		  "fg": [
+		    { "weight": 1, "sprite": 15 } ],
+		      "rotates": false
+		},
+		
+		{ "id": "mon_fem_shocker3",
+          "fg": [
+		    { "weight": 1, "sprite": 16 },
+			{ "weight": 1, "sprite": 17 },
+			{ "weight": 1, "sprite": 18 },
+			{ "weight": 1, "sprite": 19 }
 		] },	
         { "id": "corpse_mon_fem_shocker3",   
 		  "fg": [
-		    { "weight": 1, "sprite": 15 } ],
+		    { "weight": 1, "sprite": 20 } ],
 		      "rotates": false
 		}
       ]		
