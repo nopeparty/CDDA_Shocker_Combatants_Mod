@@ -1,6 +1,17 @@
 [
   {
     "type": "monstergroup",
+    "name": "GROUP_SHOCKER",
+	"default": "mon_fem_shocker1",
+	
+    "monsters": [
+	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+    ]
+  }
+  ,{
+    "type": "monstergroup",
     "name": "GROUP_ZOMBIE",
 	"default": "mon_zombie",
 	
