@@ -1,0 +1,36 @@
+[
+{
+    "type": "technique",
+    "id": "tec_exp_slow",
+    "name": "slow exp strike",
+    "unarmed_allowed": true,
+    "unarmed_weapons_allowed": false,
+    "skill_requirements": [ { "name": "unarmed", "level": 1 } ],
+    "mult_bonuses": [
+      { "stat": "damage", "type": "bash", "scale": 1000 },
+      { "stat": "damage", "type": "bash", "scaling-stat": "str", "scale": 1000 }
+    ],
+    "flat_bonuses": [ { "stat": "movecost", "scale": 10 }, { "stat": "movecost", "scaling-stat": "str", "scale": 10 } ],
+    "messages": [ "You slowly strike %s", "<npcname> slowly strikes %s" ]
+  },
+  {
+    "type": "technique",
+    "id": "tec_exp_arpen",
+    "name": "phasing exp strike",
+    "unarmed_allowed": true,
+    "melee_allowed": true,
+    "skill_requirements": [ { "name": "melee", "level": 1 } ],
+    "mult_bonuses": [
+      { "stat": "damage", "type": "bash", "scale": 1000 },
+      { "stat": "damage", "type": "cut", "scale": 1000 },
+      { "stat": "damage", "type": "stab", "scale": 1000 },
+      { "stat": "movecost", "scale": 10 }
+    ],
+    "flat_bonuses": [
+      { "stat": "damage", "type": "bash", "scale": 1000 },
+      { "stat": "damage", "type": "bash", "scaling-stat": "str", "scale": 1000 }
+    ],
+    "crit_tec": true,
+    "messages": [ "You phase-strike %s", "<npcname> phase-strikes %s" ]
+  }
+]
