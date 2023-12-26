@@ -5,9 +5,9 @@
 	"default": "mon_fem_shocker1",
 	
     "monsters": [
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   }
   ,{
@@ -16,9 +16,9 @@
 	"default": "mon_zombie",
 	
     "monsters": [
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   }
   ,{
@@ -27,12 +27,12 @@
 	"default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   }
   ,{
@@ -41,9 +41,9 @@
 	"default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   }
   ,{
@@ -52,9 +52,9 @@
 	"default": "mon_zombie",
 	
     "monsters":[
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   }
   ,{
@@ -63,9 +63,9 @@
 	"default": "mon_zombie",
 	
     "monsters": [ 
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
 	]
   }
   ,{
@@ -74,9 +74,9 @@
 	"default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
 	]
   }  
    ,{
@@ -85,9 +85,9 @@
 	"default": "mon_zombie",
 	
     "monsters" : [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   }
   ,{
@@ -96,9 +96,9 @@
 	"default": "mon_zombie",
 	
     "monsters" : [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   
@@ -109,9 +109,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -120,9 +120,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -131,9 +131,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -142,9 +142,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -153,9 +153,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -164,9 +164,9 @@
 	
     "name": "GROUP_ZOMBIE_GASSTATION",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -176,9 +176,9 @@
 	
     "default": "mon_feral_human_crowbar",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -188,9 +188,9 @@
     "default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -200,9 +200,9 @@
     "default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -212,9 +212,9 @@
 	
     "//": "Normalized to 1000",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -224,9 +224,9 @@
     "//": "+30% cops, much higher chance of paramilitary people",
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -236,9 +236,9 @@
     "//": "100% cops, 0% civilians",
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -248,9 +248,9 @@
     "default": "mon_zombie",
     "//": "+13% fast",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -260,9 +260,9 @@
     "default": "mon_zombie",
     "//": "+15% electric",
 	"monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -272,9 +272,9 @@
     "default": "mon_zombie",
     "//": "+15% fat",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -283,9 +283,9 @@
 	
     "name": "GROUP_PUBLICWORKERS",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -295,9 +295,9 @@
 	
     "//": "10% chance of a zombie",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -307,9 +307,9 @@
 	
     "//": "School monster spawns.",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -318,9 +318,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -329,9 +329,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -340,9 +340,9 @@
 	
     "name": "GROUP_MANSION_SEX_LAIR",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -351,9 +351,9 @@
 	
     "name": "GROUP_MANSION_POOL",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -362,9 +362,9 @@
 	
     "default": "mon_zombie",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -373,9 +373,9 @@
 	
     "name": "GROUP_ZOMBIE_SEXSHOP_A",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -384,9 +384,9 @@
     "default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -395,9 +395,9 @@
     "type": "monstergroup",
 	
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -406,9 +406,9 @@
     "type": "monstergroup",
 	
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -417,9 +417,9 @@
     "default": "mon_zombie",
 	
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -428,9 +428,9 @@
     "type": "monstergroup",
 	
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -440,9 +440,9 @@
 	
     "//": "Zombies/ferals that could be found on a diving related place.",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -452,9 +452,9 @@
 	
     "//": "Zombies/ferals that could be found on the beach/riverside.",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -463,9 +463,9 @@
     "type": "monstergroup",
 	
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -475,9 +475,9 @@
     "//": "Civilians/Normal people that died, represents a lot of different common professions.  No children or dogs.",
     "type": "monstergroup",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -487,9 +487,9 @@
     "//": "Civilians/Normal people that died, represents a lot of different common professions.  No children, dogs or ferals.",
     "type": "monstergroup",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   },
   {
@@ -498,9 +498,9 @@
 	
     "type": "monstergroup",
     "monsters": [
-      { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [1,2] },
-	  { "monster": "mon_fem_shocker1", "freq": 63, "cost_multiplier": 0, "pack_size": [2,3] }
+      { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [1,2] },
+	  { "monster": "mon_fem_shocker1", "freq": 250, "cost_multiplier": 0, "pack_size": [2,3] }
     ]
   }
 ]
