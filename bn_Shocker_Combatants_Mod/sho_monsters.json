@@ -4,7 +4,7 @@
     "type": "MONSTER",
     "name": "Female shocker1",
     "description":
-    "어느 사악한 조직에 의해 개조 되었거나, 인공 배양 된 아름다운 여성 입니다. 매우 성도착 적이고 잔인한 성향을 가지고 있습니다. 보통 인간보다 3~4배 강한 근력을 가지고 있으며, 망사 스타킹 위에 검은 레오타드를 입고 있습니다. 그녀는 자신들의 희생양을 가학적인 표정으로 바라보며 때때로 도발적인 말과 웃음소리를 내고 있습니다.",
+    "어느 사악한 조직에 의해 개조 되었거나, 인공 배양 된 아름다운 여성 입니다. 매우 성적이고 잔인한 성향을 가지고 있습니다. 보통 인간보다 3~4배 강한 근력을 가지고 있으며, 망사 스타킹 위에 검은 레오타드를 입고 있습니다. 그녀는 자신들의 희생양을 가학적인 표정으로 바라보며 때때로 도발적인 말과 웃음소리를 내고 있습니다.",
 	"default_faction": "shocker",
     "bodytype": "human",
 	"species": [ "HUMAN" ],
@@ -22,7 +22,7 @@
     "melee_dice": 5,
     "melee_dice_sides": 3,
 	"attack_cost": 30,
-	"melee_damage": [ { "damage_type": "stab", "amount": 5 } ],
+	"melee_damage": [ { "damage_type": "bash", "amount": 5 } ],
 	"harvest":"zombie",
 	"reproduction":{ "baby_monster": "mon_fem_shocker1", "baby_count": 2, "baby_timer": 1 },
     "vision_day": 15,
