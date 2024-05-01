@@ -21,23 +21,25 @@
           "fg": [
 		    { "weight": 1, "sprite": 0 },
 			{ "weight": 1, "sprite": 1 },
-			{ "weight": 1, "sprite": 2 }
+			{ "weight": 1, "sprite": 2 },
+			{ "weight": 1, "sprite": 3 },
+			{ "weight": 1, "sprite": 4 },
 		] },	
         { "id": "corpse_mon_fem_shocker1",   
 		  "fg": [
-		    { "weight": 1, "sprite": 3 } ],
+		    { "weight": 1, "sprite": 5 } ],
 		      "rotates": false
 		},
 
 		{ "id": "mon_fem_shocker2",
           "fg": [
-		    { "weight": 1, "sprite": 4 },
-			{ "weight": 1, "sprite": 5 },
-			{ "weight": 1, "sprite": 6 }
+		    { "weight": 1, "sprite": 6 },
+			{ "weight": 1, "sprite": 7 },
+			{ "weight": 1, "sprite": 8 }
 		] },	
         { "id": "corpse_mon_fem_shocker2",   
 		  "fg": [
-		    { "weight": 1, "sprite": 7 } ],
+		    { "weight": 1, "sprite": 9 } ],
 		      "rotates": false
 		}
       ]		
