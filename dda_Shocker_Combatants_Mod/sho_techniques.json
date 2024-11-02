@@ -4,7 +4,6 @@
     "id": "tec_exp_slow",
     "name": "slow exp strike",
     "unarmed_allowed": true,
-    "unarmed_weapons_allowed": false,
     "skill_requirements": [ { "name": "unarmed", "level": 1 } ],
     "mult_bonuses": [
       { "stat": "damage", "type": "bash", "scale": 1000 },
