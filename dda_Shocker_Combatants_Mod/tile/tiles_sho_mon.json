@@ -16,7 +16,12 @@
         "sprite_width":48,
         "sprite_offset_x":-8,
         "sprite_offset_y":-16,
-        "tiles": [  { "id": "mon_fem_shocker1", "fg": 0, "rotates": false }  ]
+        "tiles": [  { 
+		"id": "mon_fem_shocker1",
+		"fg": [
+            { "weight": 20, "sprite": 0 },
+            { "weight": 20, "sprite": 1 }],
+		"rotates": false } ]
 	},
 	
 	{
@@ -25,7 +30,7 @@
         "sprite_width":48,
         "sprite_offset_x":-8,
         "sprite_offset_y":-16,
-        "tiles": [  { "id": "corpse_mon_fem_shocker1", "fg": 1, "rotates": false }  ]
+        "tiles": [  { "id": "corpse_mon_fem_shocker1", "fg": 2, "rotates": false }  ]
 	},
 
 	{
@@ -34,7 +39,7 @@
         "sprite_width":48,
         "sprite_offset_x":-8,
         "sprite_offset_y":-16,
-        "tiles": [  { "id": "mon_fem_shocker2", "fg": 2, "rotates": false }  ]
+        "tiles": [  { "id": "mon_fem_shocker2", "fg": 3, "rotates": false }  ]
 	},
 	
 	{
@@ -43,7 +48,7 @@
         "sprite_width":48,
         "sprite_offset_x":-8,
         "sprite_offset_y":-16,
-        "tiles": [  { "id": "corpse_mon_fem_shocker2", "fg": 3, "rotates": false }  ]
+        "tiles": [  { "id": "corpse_mon_fem_shocker2", "fg": 4, "rotates": false }  ]
 	}
       ]		
     }
