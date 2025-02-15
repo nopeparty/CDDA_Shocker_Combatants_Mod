@@ -19,7 +19,7 @@
         "tiles": [  { 
 		"id": "mon_fem_shocker1",
 		"fg": [
-            { "weight": 20, "sprite": 0 },
+		    { "weight": 20, "sprite": 0 }]
             { "weight": 20, "sprite": 1 }],
 		"rotates": false } ]
 	},
