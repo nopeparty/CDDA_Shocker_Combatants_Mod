@@ -1,6 +1,7 @@
 [{
   "type": "mod_tileset",
-  "compatibility": [ 
+  "compatibility": [      
+     "UltimateCataclysm",
 	 "UNDEAD_PEOPLE_BASE",
 	 "UNDEAD_PEOPLE", 
 	 "UNDEAD_PEOPLE_BASE", 
