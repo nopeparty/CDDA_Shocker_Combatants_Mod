@@ -1,6 +1,7 @@
 [{
   "type": "mod_tileset",
   "compatibility": [  
+     "Ultica_iso",
      "UltimateCataclysm",
 	 "UNDEAD_PEOPLE_BASE",
 	 "UNDEAD_PEOPLE", 
